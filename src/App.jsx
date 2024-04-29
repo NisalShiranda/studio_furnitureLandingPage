@@ -1,4 +1,4 @@
-
+import Navbar from './pages/Navbar/Navbar'
 import './App.css'
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1>Nisal Shiranda</h1>
+      <Navbar />
     </>
   )
 }
