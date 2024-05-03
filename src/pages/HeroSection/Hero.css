@@ -9,6 +9,7 @@
 .hero-text{
     width: 50%;
     padding-right: 50px;
+    line-height:1.3;
     
 
 
@@ -17,4 +18,9 @@
 .hero-image{
     width: 50%;
 
+}
+
+.fireImage{
+    width: 4%;
+    padding-left: 6px;
 }
