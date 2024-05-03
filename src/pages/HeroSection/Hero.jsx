@@ -13,7 +13,7 @@ function Hero() {
                     <img className="fireImage"src={Fire} alt="Fire Image"></img>
                 </div>
                 <p className="text-[4rem] font-semibold">Make Your <span className=' text-[#F4D03F]'>Interior</span> Unique & Modern.</p>
-                <p className='text-[1.5rem] font-medium'>Turn your room with panto into a lot more minimalist and modern.</p>
+                <p className='text-[1.5rem] font-medium pt-2'>Turn your room with panto into a lot more minimalist and modern.</p>
                 <div><HeroBtn /></div>
             </div>
             <div className="hero-image">
