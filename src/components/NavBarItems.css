@@ -1,0 +1,12 @@
+.navbaritems{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    letter-spacing:0.5px;
+}
+
+a:hover{
+    color: #F4D03F;
+    transition:0.4s;
+}

@@ -1,4 +1,5 @@
 import Navbar from './pages/Navbar/Navbar'
+import Hero from './pages/HeroSection/Hero'
 import './App.css'
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
   return (
     <>
       <Navbar />
+      <Hero />
     </>
   )
 }

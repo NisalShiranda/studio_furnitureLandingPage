@@ -1,0 +1,26 @@
+.signinbtn{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.signinbtn-logo{
+    
+}
+
+.logo{
+    background-color: white;
+}
+
+
+
+
+.signinbtn-text{
+    color: #ffffff;
+    background-color: #F4D03F;
+    padding: 5px 15px;
+    border: none;
+    border-radius:10px;
+
+}
