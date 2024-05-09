@@ -1,0 +1,21 @@
+
+.collage{
+    display: flex;
+    flex-direction: row;
+}
+
+.userImg1{
+    height: 50px;
+    border-radius: 100%;
+    /* z-index: -1; */
+    
+}
+
+.userImg2{
+    position: relative;
+    height: 50px;
+    border-radius: 100%;
+    left: -20px;
+    
+    
+}
