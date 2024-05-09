@@ -14,7 +14,15 @@ function UserCollage() {
         <div className=''>
           <img className="userImg2" src={User2} alt="User" />
         </div>
-        
+        <div>
+          <img className="userImg3" src={User1} alt="User" />
+        </div>
+        <div className=''>
+          <img className="userImg4" src={User2} alt="User" />
+        </div>
+        <div className="collageText">
+          Nisal Shiranda
+        </div>
       </div>
     </>
   )

@@ -15,7 +15,26 @@
     position: relative;
     height: 50px;
     border-radius: 100%;
-    left: -20px;
-    
-    
+    left: -20px; 
+}
+
+.userImg3{
+    position: relative;
+    height: 50px;
+    border-radius: 100%;
+    left: -40px; 
+}
+
+.userImg4{
+    position: relative;
+    height: 50px;
+    border-radius: 100%;
+    left: -60px; 
+}
+
+.collageText{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 100px;
 }
