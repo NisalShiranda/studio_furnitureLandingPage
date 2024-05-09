@@ -1,8 +1,6 @@
 import '../components/UserCollage.css'
 import User1 from "../../public/u1.jpeg"
 import User2 from "../../public/u2.jpeg"
-import User3 from "../../public/u3.jpeg"
-import User4 from "../../public/u4.jpeg"
 
 function UserCollage() {
   return (
@@ -21,7 +19,7 @@ function UserCollage() {
           <img className="userImg4" src={User2} alt="User" />
         </div>
         <div className="collageText">
-          Nisal Shiranda
+          Used by 300,000 people globaly
         </div>
       </div>
     </>

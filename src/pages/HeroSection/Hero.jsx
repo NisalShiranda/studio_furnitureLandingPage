@@ -2,6 +2,7 @@ import './Hero.css'
 import HeroImage from '../../../public/herochair.png'
 import HeroBtn from '../../components/Herobtn'
 import Fire from '../../../public/fire.svg'
+import Smallcard from "../../components/smallcard"
 
 function Hero() {
   return (
@@ -20,6 +21,7 @@ function Hero() {
                 <img src={HeroImage} alt="hero-image"></img>
             </div>
         </div>
+        <Smallcard />
     </>
   )
 }
