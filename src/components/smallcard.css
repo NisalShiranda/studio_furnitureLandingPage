@@ -1,8 +1,38 @@
 .smallCard{
     padding: 0px 50px;
+    padding-bottom: 50px;
 }
 
 .card1{
-    background-color: blue;
+    background-color: #FFD0EC;
     border-radius: 5px;
+    padding: 60px 40px;
+    display: flex;
+    flex-direction: row;
+    height: 300px;
+}
+
+.card2{
+    background-color: #CAF4FF;
+    border-radius: 5px;
+    padding: 60px 40px;
+    display: flex;
+    flex-direction: row;
+    height: 300px;
+}
+
+.card-text{
+    width: 50%;
+}
+
+.card-img{
+    width: 50%;
+}
+
+.img1{
+    width: 75%;
+}
+
+.img2{
+    width: 75%;
 }
