@@ -1,18 +1,39 @@
 .Class-Container{
     background-color: #CAF4FF; 
+    
+    
 }
 
 .fullbox{
-    padding: 50px 50px;
+    padding: 0px 50px;
 
 }
 
 .classBox1{
     width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 
 }
 
 .classBox2{
     width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.Box2-Img{
+    width: 65%;
+
+}
+
+.Order{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
 
 }
