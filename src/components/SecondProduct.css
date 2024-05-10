@@ -1,0 +1,31 @@
+.first-text{
+    color: #EEEEEE;
+    position: absolute;
+    padding-left:0px;
+    z-index: -1;
+    
+}
+
+.second-text{
+    padding-top: 18px;
+    position: relative;
+}
+
+.box1{
+    width: 30%;
+    padding: 0px 10px;
+    
+}
+
+.box2{
+    width: 70%;
+}
+
+.imggrid{
+    
+}
+
+.ArtImage{
+    object-fit: fill;
+    height: 100%;
+}

@@ -4,6 +4,7 @@ import Item1 from "../../../public/item1.png"
 import Item2 from "../../../public/item2.png"
 import Item3 from "../../../public/item3.png"
 import Item4 from "../../../public/item4.png"
+import Second from "../../components/SecondProduct"
 
 function Products() {
   return (
@@ -28,6 +29,10 @@ function Products() {
             </div>
 
         </div>
+
+        <Second />
+
+        
     </div>
   )
 }
