@@ -15,16 +15,16 @@ function Products() {
 
         <div className="productCard pt-4 grid grid-cols-4 gap-2">
             <div className="card">
-              <Itemcard imgSrc={Item1} />
+              <Itemcard imgSrc={Item1} alt="First-Item" title="Clean Cut Dining Chair" price="$299" />
             </div>
             <div className="card">
-              <Itemcard imgSrc={Item2} />
+              <Itemcard imgSrc={Item2} alt="Second-Item" title="Afternoon Relax Chair" price="$270" />
             </div>
             <div className="card">
-              <Itemcard imgSrc={Item3} />
+              <Itemcard imgSrc={Item3} alt="Third-Item" title="Reading Chair" price="$258" />
             </div>
             <div className="card">
-              <Itemcard imgSrc={Item4} />
+              <Itemcard imgSrc={Item4} alt="Forth-Item" title="Circular Coffee Table" price="$399" />
             </div>
 
         </div>

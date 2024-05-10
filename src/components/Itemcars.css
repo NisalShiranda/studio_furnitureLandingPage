@@ -5,3 +5,24 @@
     
 }
 
+
+.card-star{
+    display: flex;
+    flex-direction: row;
+}
+
+.star{
+    width: 15px;
+}
+
+.price{
+    width: 20rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.plus{
+    
+    width: 50px;
+}
