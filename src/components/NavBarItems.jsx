@@ -1,15 +1,26 @@
+import { BrowserRouter } from 'react-router-dom'
+import {HashLink as Link} from 'react-router-hash-link';
 import './NavBarItems.css'
 
 function NavBarItems() {
   return (
-    <>
+    <BrowserRouter>
         <div className='navbaritems font-medium'>
-            <a className="items pl-5 text-[1rem]" href='#home'>Home</a>
-            <a className="items pl-5 text-[1rem]" href='#products'>Products</a>
-            <a className="items pl-5 text-[1rem]" href='#sales'>Sales</a>
-            <a className="items pl-5 text-[1rem]" href='#contacts'>Contacts</a>
+            
+            <Link className="items pl-5 text-[1rem]" to="#home" smooth>Home</Link>
+
+            <Link className="items pl-5 text-[1rem]" to="#products" smooth>Products</Link>
+
+            <Link className="items pl-5 text-[1rem]" to="#sales" smooth>Sales</Link>
+
+            <Link className="items pl-5 text-[1rem]" to="#blogs" smooth>Blogs</Link>
+            
+            
+            
+            
+            
         </div>
-    </>
+    </BrowserRouter>
   )
 }
 

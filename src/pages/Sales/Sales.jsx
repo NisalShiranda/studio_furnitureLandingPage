@@ -3,7 +3,7 @@ import Photo from "../../../public/photo.png"
 
 function Sales() {
   return (
-    <>
+    <section className = "Sales-header" id="sales">
         <div className="Class-Container">
             <div className="fullbox flex flex-row">
                 <div className="classBox1">
@@ -17,7 +17,7 @@ function Sales() {
                 
             </div>
         </div>
-    </>
+    </section>
   )
 }
 

@@ -8,7 +8,7 @@ import Second from "../../components/SecondProduct"
 
 function Products() {
   return (
-    <div className="products">
+    <div className="products" id="products">
         <div className="head-text">
             <p className="text-[2.5rem] text-center font-bold">Trending Products</p>
             <p className="text-[1rem] text-center">There are many variations of packages of sofas and other stufs.<br></br>but the majority have suffed.</p>

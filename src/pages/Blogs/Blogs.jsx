@@ -6,7 +6,7 @@ import B3 from "../../../public/b3.jpg"
 
 function Blogs() {
   return (
-    <>
+    <section className="Blogs-header" id="blogs">
         <div className="blogs">
             <div>
                 <p className="text-[3rem] font-bold text-center">Our Blogs</p>
@@ -33,7 +33,7 @@ function Blogs() {
 
 
         </div>
-    </>
+    </section>
   )
 }
 

@@ -6,7 +6,7 @@ import Smallcard from "../../components/smallcard"
 
 function Hero() {
   return (
-    <>
+    <section className="Home-header" id="home">
         <div className="hero">
             <div className="hero-text ">
                 <div className="flex flex-row  items-center">
@@ -22,7 +22,7 @@ function Hero() {
             </div>
         </div>
         <Smallcard />
-    </>
+    </section>
   )
 }
 
