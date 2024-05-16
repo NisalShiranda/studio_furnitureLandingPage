@@ -13,7 +13,7 @@ This Landing page has mainly two functions:
 ## Installation
 To get a local copy up and running, just clone the repo
 ```bash
-https://github.com/NisalShiranda/Agency_Website
+https://github.com/NisalShiranda/studio_furnitureLandingPage
 ```
 ## ScreenShot
 
