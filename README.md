@@ -17,7 +17,7 @@ https://github.com/NisalShiranda/studio_furnitureLandingPage
 ```
 ## ScreenShot
 
-![Agency]
+![Studio.]
 ![Screenshot (256)](https://github.com/NisalShiranda/studio_furnitureLandingPage/assets/112365420/3d3bed08-adb1-453e-b7a1-ef5a839f5469)
 
 
