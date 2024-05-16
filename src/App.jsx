@@ -4,9 +4,9 @@ import Products from "./pages/Products/Products"
 import Sales from "./pages/Sales/Sales"
 import Blogs from "./pages/Blogs/Blogs"
 import Footer from "./pages/Footer/Footer"
+import BacktoTopButton from './components/BacktoTopButton';
 import './App.css'
-import { BrowserRouter } from 'react-router-dom'
-import {HashLink as Link} from 'react-router-hash-link';
+
 
 function App() {
   
@@ -19,6 +19,7 @@ function App() {
       <Sales />
       <Blogs />
       <Footer />
+      <BacktoTopButton />
     </>
   )
 }
