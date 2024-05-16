@@ -1,5 +1,12 @@
 # Studio.
-This is the landing page for the furniture website. 
+This is the landing page for the furniture website.<br>
+I used Reactjs to develop this landing page.<br>
+This Landing page has mainly two functions:
+<ul>
+ <li>In Page Navigation</li>
+ <li>Scroll Up Function</li>
+</ul>
+
 ## Preview
 <a href='https://nisalshiranda.github.io/Agency_Website/'>Click here</a> to preview the website.
 
