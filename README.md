@@ -11,7 +11,8 @@ https://github.com/NisalShiranda/Agency_Website
 ## ScreenShot
 
 ![Agency]
-![Screenshot (231)](https://github.com/NisalShiranda/Agency_Website/assets/112365420/41be6202-b3df-4686-8ce9-5f68d6323c81)
+![Screenshot (256)](https://github.com/NisalShiranda/studio_furnitureLandingPage/assets/112365420/3d3bed08-adb1-453e-b7a1-ef5a839f5469)
+
 
 
 
